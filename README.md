@@ -15,6 +15,7 @@ Windows 10 V1703 & Mac osX 10.12.6 (Reciever);
 1. addons used by the project could be found in the addons.make file;  
 2. edit the .xml file to change the IP address and PORT;  
 3. LAN suggested while WAN also works but returns low FPS;  
+4. see https://github.com/elliotwoods/ofxkinectForWindows2 for the Kinect lib, you must read that to start your project;  
 
 ## Author
 
