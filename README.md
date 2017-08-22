@@ -1,5 +1,7 @@
 # KinectDepthImageTrans
 
+![image](https://raw.githubusercontent.com/AntonioFrog/KinectDepthImageTrans/master/screenshoot1.jpg)
+
 Grab KinectDepthImage from computer A&B and send it to computer C.  
 It should be a possible method to get data from several KinectV2 devices.  
 Support multi devices which depends on your network environment and the computer running speed.  
