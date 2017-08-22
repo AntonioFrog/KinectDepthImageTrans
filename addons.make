@@ -1,3 +1,0 @@
-ofxDatGui
-ofxNetwork
-ofxXmlSettings
